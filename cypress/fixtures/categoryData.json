@@ -1,0 +1,15 @@
+{
+  "newCategory": {
+    "name": "QA Sanber 2026",
+    "image": "https://placehold.co/600x400/png"
+  },
+
+  "updateCategory": {
+    "name": "Gaming Updated",
+    "image": "https://placehold.co/600x400/png"
+  },
+
+  "patchCategory": {
+    "name": "Gaming Patch"
+  }
+}
